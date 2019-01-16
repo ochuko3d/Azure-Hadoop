@@ -41,13 +41,6 @@
   "resources": [
 
 
-      {
-            "type": "Microsoft.Resources/resourceGroups",
-            "apiVersion": "2018-05-01",
-            "location": "westeurope",
-            "name": "Hdp",
-            "properties": {}
-        },
     
     {
       "type": "Microsoft.Network/virtualNetworks",
